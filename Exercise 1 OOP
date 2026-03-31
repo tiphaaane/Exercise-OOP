@@ -5,8 +5,8 @@ Git was already installed on my system, so no additional installation was needed
 git --version
 # Output: git version 2.52.0
 3. Configuring username and email
-git config --global user.name "Erdem Sanver"
-git config --global user.email "b00818169@essec.edu"
+git config --global user.name "Tiphaine de Saint Aignan"
+git config --global user.email "b00819186@essec.edu"
 
 Part 2: Create Your First Repository
 mkdir my-first-repo        # Created the folder
